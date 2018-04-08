@@ -1,0 +1,93 @@
+/seq-nfs
+├── /seq-nfs/3dtv
+│   ├── /seq-nfs/3dtv/ballet
+│   ├── /seq-nfs/3dtv/breakdancers
+│   ├── /seq-nfs/3dtv/multiview
+│   └── /seq-nfs/3dtv/render
+├── /seq-nfs/camomile
+├── /seq-nfs/cbir
+│   ├── /seq-nfs/cbir/caltech-101
+│   ├── /seq-nfs/cbir/caltech-256
+│   ├── /seq-nfs/cbir/ccd
+│   ├── /seq-nfs/cbir/ETHZShapeClasses
+│   ├── /seq-nfs/cbir/mirflickr
+│   ├── /seq-nfs/cbir/pascal
+│   └── /seq-nfs/cbir/trecvid
+├── /seq-nfs/coding
+│   ├── /seq-nfs/coding/4k
+│   └── /seq-nfs/coding/vceg
+├── /seq-nfs/crg
+│   └── /seq-nfs/crg/gtex
+├── /seq-nfs/faces
+│   ├── /seq-nfs/faces/2009-05-smartroom-12-people
+│   ├── /seq-nfs/faces/3d_models
+│   ├── /seq-nfs/faces/Aberdeen
+│   ├── /seq-nfs/faces/att_faces
+│   ├── /seq-nfs/faces/att_faces_mod
+│   ├── /seq-nfs/faces/Banca
+│   ├── /seq-nfs/faces/BioID
+│   ├── /seq-nfs/faces/CroppedYale
+│   ├── /seq-nfs/faces/CUD
+│   ├── /seq-nfs/faces/dbase
+│   ├── /seq-nfs/faces/faceScrub
+│   ├── /seq-nfs/faces/FDDB
+│   ├── /seq-nfs/faces/FERET
+│   ├── /seq-nfs/faces/FRAV2D
+│   ├── /seq-nfs/faces/FRD_Essex
+│   ├── /seq-nfs/faces/GavabDB
+│   ├── /seq-nfs/faces/GT
+│   ├── /seq-nfs/faces/HHI
+│   ├── /seq-nfs/faces/JAFFE
+│   ├── /seq-nfs/faces/Labeled_Faces_in_the_Wild
+│   ├── /seq-nfs/faces/M2VTS
+│   ├── /seq-nfs/faces/megaface
+│   ├── /seq-nfs/faces/MIT
+│   ├── /seq-nfs/faces/Nottingham
+│   ├── /seq-nfs/faces/Olivetti_RL
+│   ├── /seq-nfs/faces/Sheffield
+│   ├── /seq-nfs/faces/topmodel
+│   ├── /seq-nfs/faces/TVC
+│   ├── /seq-nfs/faces/webcam
+│   ├── /seq-nfs/faces/XM2VTS
+│   └── /seq-nfs/faces/YouTubeFaces
+├── /seq-nfs/foreground
+│   ├── /seq-nfs/foreground/cvsg
+│   └── /seq-nfs/foreground/kinect-database
+├── /seq-nfs/gait
+│   ├── /seq-nfs/gait/2009-10-smartroom
+│   └── /seq-nfs/gait/2010-gait-recognition
+├── /seq-nfs/generic
+│   └── /seq-nfs/generic/Corel
+├── /seq-nfs/lost+found
+├── /seq-nfs/multiview
+│   ├── /seq-nfs/multiview/2010-07-4DRepository
+│   ├── /seq-nfs/multiview/2010-ACM_GrandChallenge_3DLife_Dataset
+│   ├── /seq-nfs/multiview/2014-04-Human3.6M
+│   ├── /seq-nfs/multiview/HumanEva
+│   ├── /seq-nfs/multiview/HumanEvaI
+│   ├── /seq-nfs/multiview/HumanEva_II
+│   ├── /seq-nfs/multiview/MuHavi_BBDD
+│   └── /seq-nfs/multiview/vcc
+├── /seq-nfs/saliency
+│   └── /seq-nfs/saliency/ASD
+├── /seq-nfs/segmentation
+│   ├── /seq-nfs/segmentation/BSDS300
+│   ├── /seq-nfs/segmentation/BSDS500
+│   ├── /seq-nfs/segmentation/COCO
+│   └── /seq-nfs/segmentation/DCU
+├── /seq-nfs/smartroom
+│   ├── /seq-nfs/smartroom/2009-12-action-db
+│   └── /seq-nfs/smartroom/2010-02-action-db-with-7-cams
+├── /seq-nfs/special-cameras
+│   ├── /seq-nfs/special-cameras/2011-01-kinect
+│   ├── /seq-nfs/special-cameras/2011-04-kinect
+│   ├── /seq-nfs/special-cameras/2011-06-kinect-calibration-sync
+│   ├── /seq-nfs/special-cameras/2011-07-kinect
+│   ├── /seq-nfs/special-cameras/2011-09-ganapathi_mocap_dataset
+│   ├── /seq-nfs/special-cameras/2011-09-kinect-fingers-ground-truth
+│   └── /seq-nfs/special-cameras/2011-10-kinect-fgseg
+├── /seq-nfs/stabilization
+│   └── /seq-nfs/stabilization/2010-07-smartrrom-ptz
+└── /seq-nfs/text
+    ├── /seq-nfs/text/bars_words
+    └── /seq-nfs/text/characters
